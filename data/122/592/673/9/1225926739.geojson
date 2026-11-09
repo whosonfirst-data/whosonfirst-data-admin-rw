@@ -49,7 +49,7 @@
         "gn:id":202483
     },
     "wof:country":"RW",
-    "wof:geomhash":"4538a573e460c86aaaead1d7fd158adb",
+    "wof:geomhash":"40f41a908c765b4e3696a900628f3983",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,5 +75,5 @@
     29.57800000000001,
     -2.2807
 ],
-  "geometry": {"coordinates":[29.57800000000001,-2.2807],"type":"Point"}
+  "geometry": {"coordinates":[29.578,-2.2807],"type":"Point"}
 }

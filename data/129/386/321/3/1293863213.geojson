@@ -44,7 +44,7 @@
         "gn:id":7319944
     },
     "wof:country":"RW",
-    "wof:geomhash":"285235416465f62fffb0bc6333eb9516",
+    "wof:geomhash":"291aae48539b087f924fc10878f14139",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     29.56900000000001,
     -1.5273
 ],
-  "geometry": {"coordinates":[29.56900000000001,-1.5273],"type":"Point"}
+  "geometry": {"coordinates":[29.569,-1.5273],"type":"Point"}
 }

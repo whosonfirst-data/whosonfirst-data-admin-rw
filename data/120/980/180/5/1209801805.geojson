@@ -51,7 +51,7 @@
         "wk:page":"Ntarabana"
     },
     "wof:country":"RW",
-    "wof:geomhash":"164f90e3a3afd36a64bbefbd18c26e80",
+    "wof:geomhash":"e314283becc10145641e62319aa2e81b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     29.92682000000001,
     -1.76444
 ],
-  "geometry": {"coordinates":[29.92682000000001,-1.76444],"type":"Point"}
+  "geometry": {"coordinates":[29.92682,-1.76444],"type":"Point"}
 }
