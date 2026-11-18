@@ -89,9 +89,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Kibali"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u57fa\u5df4\u5229\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u57fa\u5df4\u5229"
     ],
@@ -118,7 +115,7 @@
         }
     ],
     "wof:id":1343647949,
-    "wof:lastmodified":1636496669,
+    "wof:lastmodified":1794999722,
     "wof:name":"Kibali",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",
