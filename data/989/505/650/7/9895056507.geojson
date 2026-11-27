@@ -1,0 +1,74 @@
+{
+  "id": 9895056507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3479,-2.091,29.3479,-2.091",
+    "geom:latitude":-2.091,
+    "geom:longitude":29.3479,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409239: name \"Karongi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409239"
+        },
+        {
+            "citation":"GeoNames populated place 13409239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409239"
+        },
+        {
+            "citation":"GeoNames populated place 13409239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409239"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182175 (Karongi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676791,
+        102191573,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409239
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"061d014f5cc48b5b7beaf848dcab017b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":9895056507,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":9895056507,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Karongi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3479,
+    -2.091,
+    29.3479,
+    -2.091
+],
+  "geometry": {"coordinates":[29.3479,-2.091],"type":"Point"}
+}

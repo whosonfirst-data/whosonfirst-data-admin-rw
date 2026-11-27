@@ -1,0 +1,74 @@
+{
+  "id": 9895056517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8936,-2.5251,29.8936,-2.5251",
+    "geom:latitude":-2.5251,
+    "geom:longitude":29.8936,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409293: name \"Muyaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409293"
+        },
+        {
+            "citation":"GeoNames populated place 13409293: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409293"
+        },
+        {
+            "citation":"GeoNames populated place 13409293: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409293"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561301 (Gisagara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676785,
+        102191573,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409293
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c90c374e9a6899541f9db610faab44f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":9895056517,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":9895056517,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Muyaga",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8936,
+    -2.5251,
+    29.8936,
+    -2.5251
+],
+  "geometry": {"coordinates":[29.8936,-2.5251],"type":"Point"}
+}

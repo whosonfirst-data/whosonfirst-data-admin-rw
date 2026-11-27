@@ -1,0 +1,74 @@
+{
+  "id": 9895056402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6041,-1.7134,29.6041,-1.7134",
+    "geom:latitude":-1.7134,
+    "geom:longitude":29.6041,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13406139: name \"Gahanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13406139"
+        },
+        {
+            "citation":"GeoNames populated place 13406139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13406139"
+        },
+        {
+            "citation":"GeoNames populated place 13406139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13406139"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421169419 (Nyabihu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676791,
+        102191573,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13406139
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c94057a7afe1690e0f45344c62a85b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":9895056402,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":9895056402,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gahanga",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6041,
+    -1.7134,
+    29.6041,
+    -1.7134
+],
+  "geometry": {"coordinates":[29.6041,-1.7134],"type":"Point"}
+}

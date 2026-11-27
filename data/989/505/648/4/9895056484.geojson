@@ -1,0 +1,74 @@
+{
+  "id": 9895056484,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71444,-2.00167,29.71444,-2.00167",
+    "geom:latitude":-2.00167,
+    "geom:longitude":29.71444,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409192: name \"Gisiza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409192"
+        },
+        {
+            "citation":"GeoNames populated place 13409192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409192"
+        },
+        {
+            "citation":"GeoNames populated place 13409192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409192"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421192887 (Muhanga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676785,
+        102191573,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409192
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"700a93803d1887982b21e97d7d95be8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":9895056484,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":9895056484,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gisiza",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71444,
+    -2.00167,
+    29.71444,
+    -2.00167
+],
+  "geometry": {"coordinates":[29.71444,-2.00167],"type":"Point"}
+}

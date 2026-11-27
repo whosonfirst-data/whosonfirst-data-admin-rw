@@ -1,0 +1,74 @@
+{
+  "id": 9895056428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.627,-1.4822,29.627,-1.4822",
+    "geom:latitude":-1.4822,
+    "geom:longitude":29.627,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408442: name \"Mubuga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408442"
+        },
+        {
+            "citation":"GeoNames populated place 13408442: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408442"
+        },
+        {
+            "citation":"GeoNames populated place 13408442: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408442"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187897 (Musanze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676799,
+        102191573,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408442
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2e0dcbe997c9d030030aceb37d48b526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":9895056428,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":9895056428,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Mubuga",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.627,
+    -1.4822,
+    29.627,
+    -1.4822
+],
+  "geometry": {"coordinates":[29.627,-1.4822],"type":"Point"}
+}

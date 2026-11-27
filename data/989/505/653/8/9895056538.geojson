@@ -1,0 +1,74 @@
+{
+  "id": 9895056538,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5082,-2.2865,30.5082,-2.2865",
+    "geom:latitude":-2.2865,
+    "geom:longitude":30.5082,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409363: name \"Rurenge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409363"
+        },
+        {
+            "citation":"GeoNames populated place 13409363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409363"
+        },
+        {
+            "citation":"GeoNames populated place 13409363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409363"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561297 (Ngoma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676795,
+        102191573,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409363
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bc6e63115ea1de8a625551992fc2049d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":9895056538,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":9895056538,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Rurenge",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5082,
+    -2.2865,
+    30.5082,
+    -2.2865
+],
+  "geometry": {"coordinates":[30.5082,-2.2865],"type":"Point"}
+}

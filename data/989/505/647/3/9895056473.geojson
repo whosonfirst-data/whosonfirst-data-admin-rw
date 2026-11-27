@@ -1,0 +1,74 @@
+{
+  "id": 9895056473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4796,-2.1061,30.4796,-2.1061",
+    "geom:latitude":-2.1061,
+    "geom:longitude":30.4796,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409115: name \"Kigarama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409115"
+        },
+        {
+            "citation":"GeoNames populated place 13409115: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409115"
+        },
+        {
+            "citation":"GeoNames populated place 13409115: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409115"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561297 (Ngoma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676795,
+        102191573,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409115
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9d0e00e0fdc7fb647671836880c47fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":9895056473,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":9895056473,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Kigarama",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4796,
+    -2.1061,
+    30.4796,
+    -2.1061
+],
+  "geometry": {"coordinates":[30.4796,-2.1061],"type":"Point"}
+}

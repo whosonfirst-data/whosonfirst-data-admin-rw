@@ -1,0 +1,74 @@
+{
+  "id": 9895056515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7578,-2.2786,30.7578,-2.2786",
+    "geom:latitude":-2.2786,
+    "geom:longitude":30.7578,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409272: name \"Rusumo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409272"
+        },
+        {
+            "citation":"GeoNames populated place 13409272: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409272"
+        },
+        {
+            "citation":"GeoNames populated place 13409272: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409272"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175701 (Kirehe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676795,
+        102191573,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409272
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"aa9f57a3de6f25e4e8c36c9cca174f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":9895056515,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":9895056515,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Rusumo",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7578,
+    -2.2786,
+    30.7578,
+    -2.2786
+],
+  "geometry": {"coordinates":[30.7578,-2.2786],"type":"Point"}
+}

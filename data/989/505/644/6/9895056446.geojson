@@ -1,0 +1,74 @@
+{
+  "id": 9895056446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2032,-1.8382,30.2032,-1.8382",
+    "geom:latitude":-1.8382,
+    "geom:longitude":30.2032,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408689: name \"Kigabiro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408689"
+        },
+        {
+            "citation":"GeoNames populated place 13408689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408689"
+        },
+        {
+            "citation":"GeoNames populated place 13408689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408689"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202327 (Gasabo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676807,
+        102191573,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408689
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"55d6c2a35308a8fb4e90eebee9c6b587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":9895056446,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":9895056446,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Kigabiro",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2032,
+    -1.8382,
+    30.2032,
+    -1.8382
+],
+  "geometry": {"coordinates":[30.2032,-1.8382],"type":"Point"}
+}

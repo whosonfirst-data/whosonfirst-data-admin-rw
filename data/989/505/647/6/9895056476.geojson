@@ -1,0 +1,74 @@
+{
+  "id": 9895056476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1051,-2.0297,30.1051,-2.0297",
+    "geom:latitude":-2.0297,
+    "geom:longitude":30.1051,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409137: name \"Gatare\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409137"
+        },
+        {
+            "citation":"GeoNames populated place 13409137: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409137"
+        },
+        {
+            "citation":"GeoNames populated place 13409137: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409137"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182309 (Kicukiro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676807,
+        102191573,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409137
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d1fa9bfeefe522a605c9b1f5d56cae0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":9895056476,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":9895056476,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gatare",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1051,
+    -2.0297,
+    30.1051,
+    -2.0297
+],
+  "geometry": {"coordinates":[30.1051,-2.0297],"type":"Point"}
+}

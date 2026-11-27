@@ -1,0 +1,74 @@
+{
+  "id": 9895056434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2632,-1.7236,30.2632,-1.7236",
+    "geom:latitude":-1.7236,
+    "geom:longitude":30.2632,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408663: name \"Rugarama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408663"
+        },
+        {
+            "citation":"GeoNames populated place 13408663: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408663"
+        },
+        {
+            "citation":"GeoNames populated place 13408663: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408663"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204013 (Gatsibo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676795,
+        102191573,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408663
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bec9abbd66ad3556e7dc36ece5c0827d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":9895056434,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":9895056434,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Rugarama",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2632,
+    -1.7236,
+    30.2632,
+    -1.7236
+],
+  "geometry": {"coordinates":[30.2632,-1.7236],"type":"Point"}
+}

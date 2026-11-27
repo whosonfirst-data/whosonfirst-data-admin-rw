@@ -1,0 +1,74 @@
+{
+  "id": 9895056389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6269,-1.5652,29.6269,-1.5652",
+    "geom:latitude":-1.5652,
+    "geom:longitude":29.6269,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13406121: name \"Gacaca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13406121"
+        },
+        {
+            "citation":"GeoNames populated place 13406121: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13406121"
+        },
+        {
+            "citation":"GeoNames populated place 13406121: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13406121"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187897 (Musanze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676799,
+        102191573,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13406121
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"11b848bfb91d75eb01fb1485be49a2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":9895056389,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":9895056389,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gacaca",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6269,
+    -1.5652,
+    29.6269,
+    -1.5652
+],
+  "geometry": {"coordinates":[29.6269,-1.5652],"type":"Point"}
+}

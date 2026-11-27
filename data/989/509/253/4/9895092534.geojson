@@ -1,0 +1,72 @@
+{
+  "id": 9895092534,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2446,-1.6936,29.2446,-1.6936",
+    "geom:latitude":-1.6936,
+    "geom:longitude":29.2446,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7605675: name \"Goma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7605675"
+        },
+        {
+            "citation":"GeoNames populated place 7605675: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7605675"
+        },
+        {
+            "citation":"GeoNames populated place 7605675: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7605675"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676791 (Western), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676791,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605675
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2486bc78c4d61aef62deb1941d9d1a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "locality_id":9895092534,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":9895092534,
+    "wof:lastmodified":1795746223,
+    "wof:name":"Goma",
+    "wof:parent_id":85676791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2446,
+    -1.6936,
+    29.2446,
+    -1.6936
+],
+  "geometry": {"coordinates":[29.2446,-1.6936],"type":"Point"}
+}

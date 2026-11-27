@@ -1,0 +1,74 @@
+{
+  "id": 9895056526,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7905,-2.2758,29.7905,-2.2758",
+    "geom:latitude":-2.2758,
+    "geom:longitude":29.7905,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409315: name \"Kavumu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409315"
+        },
+        {
+            "citation":"GeoNames populated place 13409315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409315"
+        },
+        {
+            "citation":"GeoNames populated place 13409315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409315"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561299 (Ruhango), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676785,
+        102191573,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409315
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e6c53b9cde930846d6b24138075f0936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":9895056526,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":9895056526,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Kavumu",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7905,
+    -2.2758,
+    29.7905,
+    -2.2758
+],
+  "geometry": {"coordinates":[29.7905,-2.2758],"type":"Point"}
+}

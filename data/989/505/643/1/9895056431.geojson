@@ -1,0 +1,74 @@
+{
+  "id": 9895056431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9806,-1.4684,29.9806,-1.4684",
+    "geom:latitude":-1.4684,
+    "geom:longitude":29.9806,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408542: name \"Buhinga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408542"
+        },
+        {
+            "citation":"GeoNames populated place 13408542: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408542"
+        },
+        {
+            "citation":"GeoNames populated place 13408542: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408542"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180243 (Burera), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676799,
+        102191573,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408542
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"de91e25ab83387a8a7130457ad42844e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":9895056431,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":9895056431,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Buhinga",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9806,
+    -1.4684,
+    29.9806,
+    -1.4684
+],
+  "geometry": {"coordinates":[29.9806,-1.4684],"type":"Point"}
+}

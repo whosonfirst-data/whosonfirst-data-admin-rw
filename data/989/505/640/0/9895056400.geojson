@@ -1,0 +1,74 @@
+{
+  "id": 9895056400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5035,-1.7045,29.5035,-1.7045",
+    "geom:latitude":-1.7045,
+    "geom:longitude":29.5035,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13406136: name \"Gasura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13406136"
+        },
+        {
+            "citation":"GeoNames populated place 13406136: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13406136"
+        },
+        {
+            "citation":"GeoNames populated place 13406136: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13406136"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421169419 (Nyabihu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676791,
+        102191573,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13406136
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ac44e6c2ae0cf2109f458cde68c6a76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":9895056400,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":9895056400,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gasura",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5035,
+    -1.7045,
+    29.5035,
+    -1.7045
+],
+  "geometry": {"coordinates":[29.5035,-1.7045],"type":"Point"}
+}

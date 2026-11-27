@@ -1,0 +1,74 @@
+{
+  "id": 9895056440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0507,-1.6524,30.0507,-1.6524",
+    "geom:latitude":-1.6524,
+    "geom:longitude":30.0507,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408675: name \"Gaseke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408675"
+        },
+        {
+            "citation":"GeoNames populated place 13408675: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408675"
+        },
+        {
+            "citation":"GeoNames populated place 13408675: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408675"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421203217 (Rulindo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676799,
+        102191573,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408675
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dfc9223d033e58006058614eb50f963a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":9895056440,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":9895056440,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gaseke",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0507,
+    -1.6524,
+    30.0507,
+    -1.6524
+],
+  "geometry": {"coordinates":[30.0507,-1.6524],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0174,-2.0623,30.0174,-2.0623",
+    "geom:latitude":-2.0623,
+    "geom:longitude":30.0174,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409138: name \"Mpanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409138"
+        },
+        {
+            "citation":"GeoNames populated place 13409138: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409138"
+        },
+        {
+            "citation":"GeoNames populated place 13409138: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409138"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204011 (Nyarugenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676807,
+        102191573,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409138
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8392ad63e5595076f5b7e18ecc01ba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":9895056477,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":9895056477,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Mpanga",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0174,
+    -2.0623,
+    30.0174,
+    -2.0623
+],
+  "geometry": {"coordinates":[30.0174,-2.0623],"type":"Point"}
+}

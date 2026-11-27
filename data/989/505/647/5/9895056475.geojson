@@ -1,0 +1,74 @@
+{
+  "id": 9895056475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0352,-2.0118,30.0352,-2.0118",
+    "geom:latitude":-2.0118,
+    "geom:longitude":30.0352,
+    "iso:country":"RW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13409133: name \"Gasharu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13409133"
+        },
+        {
+            "citation":"GeoNames populated place 13409133: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13409133"
+        },
+        {
+            "citation":"GeoNames populated place 13409133: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13409133"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204011 (Nyarugenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303,
+        85676807,
+        102191573,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13409133
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3f3e057bd6711393f35394983b25ce6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":9895056475,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":9895056475,
+    "wof:lastmodified":1795735081,
+    "wof:name":"Gasharu",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0352,
+    -2.0118,
+    30.0352,
+    -2.0118
+],
+  "geometry": {"coordinates":[30.0352,-2.0118],"type":"Point"}
+}
